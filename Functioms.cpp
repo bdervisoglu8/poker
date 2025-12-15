@@ -11,6 +11,7 @@
 C_Suit Card_Suit;
 C_Rank Card_Rank;
 
+// local extern values
 extern long ways_NK[DECK_SIZE][HAND_SIZE];
 extern int DECK_NK[DECK_SIZE];
 
